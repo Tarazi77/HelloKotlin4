@@ -6,6 +6,7 @@ fun feedTheFish() {
     val food = "pellets"
     println ("Today is $day and the fish eat $food")
 }
+//ferfregreg
 
 fun main(args: Array<String>) {
     feedTheFish()
